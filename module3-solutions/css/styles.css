@@ -1,0 +1,43 @@
+body{
+    background-color: lightblue;
+    font-size: 16px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#pp{
+    background-color: rgb(246, 245, 182);
+    text-decoration: wavy;
+    height:100px;
+}
+
+#list{
+    background-color: rgb(246, 245, 182);
+    text-decoration: wavy;
+}
+
+#tits{
+    font-style: italic;
+    font-size:50px;
+    margin:20px;
+}
+
+#ff:focus,#ff:active{
+    background-color: darkkhaki;
+    box-shadow: 10px;
+}
+
+#lor{
+    border:3px solid black;
+    background-color: hotpink;
+    text-transform: inherit;
+}
+
+h2{
+    color:blueviolet;
+    font-style: italic;
+    font-weight: 700a;
+}
+#lor h4{
+    color:red;
+    
+}
